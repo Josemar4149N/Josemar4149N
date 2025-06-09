@@ -18,21 +18,24 @@ Here are some ideas to get you started:
 
 **`Desenvolvedor FullStack`**
 
-Sou angolano, nascido em Luanda no dia 06 de janeiro de 2005.
+Sou angolano, nascido em Luanda no dia 06 de janeiro de 2005.  
 Atualmente, estou me formando em Engenharia Informática pelo ISPTEC, e concluí o ensino médio técnico em Informática pelo Instituto de Telecomunicações.
 
 Sou apaixonado por tecnologia e desenvolvimento de soluções web. Busco aprender constantemente, explorar novas ferramentas e contribuir para projetos que fazem a diferença.
+
 Aqui no GitHub, compartilho meus estudos, projetos pessoais e tudo o que venho construindo ao longo da minha jornada como desenvolvedor.
 
-🚀 Áreas de interesse:
+🌐 **Portfólio:** [Clique para acessar](https://josemar4149n.github.io/Josemar-Portfolio/)
 
-Desenvolvimento Web
+---
 
-Engenharia de Software
+🚀 **Áreas de interesse:**
 
-Redes e Infraestrutura
+- Desenvolvimento Web  
+- Engenharia de Software  
+- Redes e Infraestrutura  
+- Automação e Inovação Tecnológica  
 
-Automação e Inovação Tecnológica
 
 
 ---
